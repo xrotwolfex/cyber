@@ -1,0 +1,4 @@
+ls ~/Desktop
+Pwd
+Rm file.txt
+Mkdir document/
